@@ -1,0 +1,20 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "Drawn Out Chat",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Holt Picklesimer",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+      "express": "4.x",
+      "socket.io": "^2.2.0"
+   }
+}
